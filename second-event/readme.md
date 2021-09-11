@@ -8,7 +8,7 @@ using azure's text analytics cognitive service and the twitter api(tweepy librar
 
 *all playlists have been arranged in order ease to understand*
 
-- [introduction](https://youtube.com/playlist?list=PLKxQh4uCbXUIBduZ3Wmsqteag2AhsSk62): [5 minutes]
+- [introduction](https://youtube.com/playlist?list=PLKxQh4uCbXUJRCxsaTwwlPsKyaLGMPLD9): [5 minutes]
    
 - natural language processing: [30 minutes]
 
